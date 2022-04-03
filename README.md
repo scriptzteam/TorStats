@@ -6,9 +6,11 @@ https://torstats.0xc0d3.xyz/
 ```
 
 New updates:
+```
 Added image which you can use on your site or forum, showing how much your Family is responsible of Tor traffic and relays count.
 On home page the flags got <code> tag for better visibility.
 On single relay page the flags got <code> tag for better visibility.
+```
 
 Middle relays only family:
 ![site](https://i.imgur.com/hdjqOpC.png)
